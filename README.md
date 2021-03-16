@@ -14,3 +14,16 @@ Sur sa partie publique, le site devra prévoir une zone «A propos du club» avec s
 d’une zone «Charte d’utilisation», d’une zone «Statuts du club» toujours accessibles.Des personnes extérieures au club ayant fait la demande d’abonnement pourront recevoir la «Newsletter» du club.
 
 Evidemment, ces personnes pourront se désabonner.
+
+
+2.ACCES RESERVE Sur le site,
+
+un accès réservé aux membres du club doit laisser l’accès àcertaines informations. 
+Tous les membres du club peuvent se connecter sur le site par un nom de connexion et un mot de passe. 
+
+Une fois connecté, la personne a accès à des albums photos supplémentaires, à un espace de téléchargement de documents divers (Word,  PDF,  Excel), 
+à des informations internes au club que le membre pourra commenter. Les membres du CA ont les mêmes droits que les membres du club, mais auront accès à 
+des informations spécifiques au CA et sujets aussi à commentaires. Seuls des membres autorisés du club pourront publier des informations sur le site, créer des «NewsLetters» interneset externes.
+
+Le webmaster (administrateur du site) aura accès à tous les outils (statistiques, sauvegardes, restauration, mise à jour, migration, transfert, 
+sécurité,  gestion des utilisateurs).Le référencement est important: URL rewriting, les mots clés, ... 
