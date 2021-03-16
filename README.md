@@ -27,3 +27,14 @@ des informations spécifiques au CA et sujets aussi à commentaires. Seuls des mem
 
 Le webmaster (administrateur du site) aura accès à tous les outils (statistiques, sauvegardes, restauration, mise à jour, migration, transfert, 
 sécurité,  gestion des utilisateurs).Le référencement est important: URL rewriting, les mots clés, ... 
+
+
+3.EXTENSIONS POSSIBLES
+
+-Synchronisation compte avec un  compte gmail-Facebook et twiter-Gestion des Abonnements-Choix d’un Template
+
+Pour terminer, procédez à lapublication du site sur un hébergement.
+
+4.TRAVAIL A RENDRE
+
+Un fichier zip comprenant les sources du site, une extraction de la BDD et un fichier listant les plugins utilisés (nom et description).
