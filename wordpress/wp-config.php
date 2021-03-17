@@ -22,7 +22,7 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define( 'DB_NAME', 'BDDMission04' );
+define( 'DB_NAME', 'BDDMission4' );
 
 /** Utilisateur de la base de données MySQL. */
 define( 'DB_USER', 'root' );
