@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.7.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-11 21:26:42+0000\n"
+"PO-Revision-Date: 2021-03-15 19:00:32+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13010,7 +13010,7 @@ msgstr "Lorsqu’un commentaire contient l’un de ces mots dans son contenu, so
 
 #: wp-admin/options-discussion.php:200
 msgid "When a comment contains any of these words in its content, author name, URL, email, IP address, or browser&#8217;s user agent string, it will be held in the <a href=\"edit-comments.php?comment_status=moderated\">moderation queue</a>. One word or IP address per line. It will match inside words, so &#8220;press&#8221; will match &#8220;WordPress&#8221;."
-msgstr "Lorsqu’un commentaire contient l’un de ces mots dans ses contenu, nom d’auteur ou d’autrice, URL, e-mail, adresse IP ou encore la chaîne d’agent utilisateur du navigateur, il sera retenu dans la <a href=\"edit-comments.php?comment_status=moderated\">file de modération</a>. Un seul mot ou une seule adresse IP par ligne. Cette fonction reconnaît l’intérieur des mots, donc « press » suffira pour reconnaître « WordPress »."
+msgstr "Lorsqu’un commentaire contient l’un de ces mots dans son contenu, nom d’auteur ou d’autrice, URL, e-mail, adresse IP ou encore la chaîne d’agent utilisateur du navigateur, il sera retenu dans la <a href=\"edit-comments.php?comment_status=moderated\">file de modération</a>. Un seul mot ou une seule adresse IP par ligne. Cette fonction reconnaît l’intérieur des mots, donc « press » suffira pour reconnaître « WordPress »."
 
 #. translators: %s: Number of links.
 #: wp-admin/options-discussion.php:194
