@@ -11,3 +11,9 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  responsivechild
 */
+.responsive-site-style-boxed aside#secondary .widget-wrapper{
+    background-color: rgba(255,255,255,0.5) !important;
+}
+.tribe-events-calendar-month{
+    background-color: rgba(255,255,255,0.5);
+}
