@@ -1,0 +1,65 @@
+/* Themify Customize Styling */
+body {	background-image: url(http://127.0.0.1:8888/Mission04/wordpress/wp-content/uploads/2021/03/arco-1.jpg);
+	background-size: cover;
+	background-position: center center;
+	color: #000000; 
+}
+#sidebar {	background: none;
+	background-color: rgba(255,255,255,0.00);	text-align:center; 
+}
+#headerwrap {	background-image: none;
+	background-repeat: no-repeat;
+	background-position: left center;
+	margin-left: 5%; 
+}
+body #site-logo a img {		width: 150px;
+	height: 150px; 
+}
+#main-nav {		position:static;
+
+	top: 0px;background: none;
+	background-color: rgba(0,0,0,0.23); 
+}
+#main-nav a:hover {	background: none;
+	background-color: #000000;
+	color: #ffffff; 
+}
+#main-nav .current_page_item a,  #main-nav .current-menu-item a {	background: none;
+	background-color: #1f7bba;
+	color: #ffffff; 
+}
+.post-title, .post-title a {		text-decoration:underline;
+ 
+}
+.page-title {		text-decoration:underline;
+ 
+}
+.module-title {	
+	color: #ffffff; 
+}
+#sidebar a {	
+	color: #ffffff; 
+}
+#sidebar .widget {	background: none;
+	background-color: rgba(0,0,0,0.41); 
+}
+#sidebar .widgettitle {	
+	color: #ee2312;	text-decoration:underline;
+	text-transform:uppercase;	text-align:center; 
+}
+#sidebar .widget li {	background: none;
+	background-color: rgba(0,0,0,0.73); 
+}
+@media screen and (max-width: Arraypx) { /* Themify Customize Styling */
+body #site-logo a img {		width: 150px;
+	height: 150px; 
+}
+ }@media screen and (max-width: Arraypx) { /* Themify Customize Styling */
+body #site-logo a img {		width: 150px;
+	height: 150px; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 150px;
+	height: 150px; 
+}
+ }

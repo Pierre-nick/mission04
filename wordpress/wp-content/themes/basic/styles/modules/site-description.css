@@ -1,0 +1,13 @@
+#site-description {
+	font-size:.9em;
+	font-weight:normal;
+	line-height:100%;
+	margin:.5em 0 1.5em;
+}
+#site-description .site-taglink{
+	color:inherit;
+	font-size:inherit;
+}
+#site-description .site-taglink:hover{
+	text-decoration:none;
+}

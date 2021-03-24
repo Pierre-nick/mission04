@@ -1,0 +1,10 @@
+/*
+Theme Name: mission-4
+Theme URI: https://archer.dwwm.me
+Author: Pierre-nick
+Template: Basic
+*/
+
+.tribe-events-calendar-month__body{
+    background-color: rgba(255,255,255,0.7) !important;
+}

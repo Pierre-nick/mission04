@@ -22,16 +22,16 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define( 'DB_NAME', 'archer' );
+define( 'DB_NAME', 'bddmission4' );
 
 /** Utilisateur de la base de données MySQL. */
-define( 'DB_USER', 'archer_stg' );
+define( 'DB_USER', 'root' );
 
 /** Mot de passe de la base de données MySQL. */
-define( 'DB_PASSWORD', 'Zbh3UK3fJW}rV2sihzcM2(Fn' );
+define( 'DB_PASSWORD', '' );
 
 /** Adresse de l’hébergement MySQL. */
-define( 'DB_HOST', 'archer.dwwm.me' );
+define( 'DB_HOST', '127.0.0.1' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
