@@ -432,7 +432,7 @@ function weather_layer_getWeatherLayer ($args)
 	}
 	
 	if (empty($retour))
-		$retour = 'No weather data found for [' . implode($args, ', ') . ']';
+		$retour = 'No weather data found for [' . implode(', ', $args) . ']';
 	
 	return $retour;
 }
@@ -505,7 +505,7 @@ function weather_layer_stringToInt ($s, $n = 2)
 	$toi = 0;
 
 	for ($i = 0; $i < strlen($s); $i++)
-		$toi += ord($s[$i]);
+		$toi += ord($s{$i});
 
 	return $toi % $n;
 }
@@ -540,7 +540,7 @@ function weather_layer_getFakeClasses ($n, $l = 10, $vary)
 		}
 			
 		$milieu = round($l / 2);
-		$fakeClass[$milieu] = strtoupper($fakeClass[$milieu]);
+		$fakeClass{$milieu} = strtoupper($fakeClass{$milieu});
 		$fakeClasses[] = $fakeClass;
 	}
 	
