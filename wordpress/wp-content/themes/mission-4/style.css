@@ -5,6 +5,15 @@ Author: Pierre-nick
 Template: Basic
 */
 
-.tribe-events-calendar-month__body{
-    background-color: rgba(255,255,255,0.7) !important;
+main{
+    background-color: rgba(255,255,255,0.6);
+}
+.tribe-events-widget-events-list{
+    background-color: rgba(0,0,0,0.5);
+}
+.tribe-common .tribe-common-h7, .tribe-common .tribe-common-b2, .tribe-common a, .tribe-common .tribe-common-h2, .tribe-events-widget .tribe-events-widget-events-list__event-date-tag-month, .tribe-common .tribe-common-h6{
+    color: white !important;
+}
+.p-accueil{
+    color: black;
 }
