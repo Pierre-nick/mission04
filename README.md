@@ -1,51 +1,41 @@
 # mission04
 
 1.PARTIE PUBLIQUE DU SITE
+La premiï¿½re  fonction attendue du site est sa partie ï¿½vitrineï¿½ ouverte au public. Elle doit ï¿½tre capable de publier des actualitï¿½s deux ou trois 
+par semaine, rï¿½digï¿½es par des membres autorisï¿½s  du CA. Les actualitï¿½s sont affichï¿½es au fil de lï¿½eau, en mode blog, dans  plusieurs langues.
 
--La première  fonction attendue du site est sa partie «vitrine» ouverte au public. Elle doit être capable de publier des actualités deux ou trois 
-par semaine, rédigées par des membres autorisés  du CA. Les actualités sont affichées au fil de l’eau, en mode blog, dans  plusieurs langues.
+La  ï¿½vitrineï¿½ doit mettre en avant le calendrier de lï¿½annï¿½e, les albums photos des diffï¿½rentes ï¿½preuves de lï¿½annï¿½e mais aussi des annï¿½es prï¿½cï¿½dentes.
 
--La  «vitrine» doit mettre en avant le calendrier de l’année, les albums photos des différentes épreuves de l’année mais aussi des années précédentes.
+Un espace dï¿½affichage pour les partenaires du club est ï¿½ mettre en place.Lï¿½association  (club)  est en  relation  avec  dï¿½autres  clubs  de  la mï¿½me rï¿½gion,  mais  aussi  de France, voire de lï¿½ï¿½tranger. Le site doit afficher ses liens prï¿½fï¿½rï¿½s.Les demandes de renseignements (contacts) sont ï¿½ adresser au secrï¿½taire du club, lï¿½internaute utilisera un formulaire spï¿½cifique. Une  demande  dï¿½adhï¿½sion  au  club  fera  lï¿½objet  dï¿½un  formulaire  diffï¿½rent,  la  demande  ï¿½tant envoyï¿½e alors  au trï¿½sorier.Lï¿½organisation  dï¿½une  ï¿½preuve  fait  lï¿½objet  dï¿½un  formulaire  dï¿½inscription  avec les informations suivantes: date et nom de lï¿½ï¿½preuve, nom, prï¿½nom, adresse, email, tï¿½lï¿½phone(s), numï¿½ro de licence, catï¿½gorie sportive,  ...  Le  formulaire  dï¿½inscription est envoyï¿½ au prï¿½sident et au secrï¿½taire.Tous les formulaires sont accompagnï¿½s dï¿½un code de sï¿½curitï¿½ et chaque demandeur aura un mail de confirmation(si possible).Publication de rï¿½sultats: Un espace dï¿½diï¿½ ï¿½ la publication des rï¿½sultats dï¿½ï¿½preuves sportives. Permet ï¿½ lï¿½internaute de consulter et de tï¿½lï¿½charger  un fichier PDF dï¿½une ï¿½preuve donnï¿½e.
 
--Un espace d’affichage pour les partenaires du club est à mettre en place.L’association (club) est en relation avec d’autres clubs de la même région, 
-mais aussi de France, voire de l’étranger. 
+Une classification par annï¿½e, par exemple, permettra dï¿½accï¿½der rapidement ï¿½ lï¿½information.
 
--Le site doit afficher ses liens préférés.Les demandes de renseignements (contacts) sont à adresser au secrétaire du club, l’internaute utilisera un formulaire spécifique. 
+Sur sa partie publique, le site devra prï¿½voir une zone ï¿½A propos du clubï¿½ avec son adresse, dï¿½une Zone ï¿½Histoire  du  clubï¿½,
+dï¿½une zone ï¿½Charte dï¿½utilisationï¿½, dï¿½une zone ï¿½Statuts du clubï¿½ toujours accessibles.Des personnes extï¿½rieures au club ayant fait la demande dï¿½abonnement pourront recevoir la ï¿½Newsletterï¿½ du club.
 
--Une demande d’adhésion au club fera l’objet d’un formulaire différent, la demande étant envoyée alors au trésorier.
-
--L’organisation  d’une  épreuve  fait  l’objet  d’un  formulaire  d’inscription  avec les informations suivantes: date et nom de l’épreuve, nom, prénom, adresse, email, téléphone(s), numéro de licence, catégorie sportive,  ...  
-Le formulaire d’inscription est envoyé au président et au secrétaire.Tous les formulaires sont accompagnés d’un code de sécurité et chaque demandeur aura un mail de confirmation(si possible).
-
--Publication de résultats: Un espace dédié à la publication des résultats d’épreuves sportives. Permet à l’internaute de consulter et de télécharger  un fichier PDF d’une épreuve donnée.
-Une classification par année, par exemple, permettra d’accéder rapidement à l’information.
-
--Sur sa partie publique, le site devra prévoir une zone «A propos du club» avec son adresse, d’une Zone «Histoire  du  club»,
-d’une zone «Charte d’utilisation», d’une zone «Statuts du club» toujours accessibles.
-
--Des personnes extérieures au club ayant fait la demande d’abonnement pourront recevoir la «Newsletter» du club.
-Evidemment, ces personnes pourront se désabonner.
+Evidemment, ces personnes pourront se dï¿½sabonner.
 
 
 2.ACCES RESERVE Sur le site,
 
-un accès réservé aux membres du club doit laisser l’accès àcertaines informations. 
+un accï¿½s rï¿½servï¿½ aux membres du club doit laisser lï¿½accï¿½s ï¿½certaines informations. 
 Tous les membres du club peuvent se connecter sur le site par un nom de connexion et un mot de passe. 
 
-Une fois connecté, la personne a accès à des albums photos supplémentaires, à un espace de téléchargement de documents divers (Word,  PDF,  Excel), 
-à des informations internes au club que le membre pourra commenter. Les membres du CA ont les mêmes droits que les membres du club, mais auront accès à 
-des informations spécifiques au CA et sujets aussi à commentaires. Seuls des membres autorisés du club pourront publier des informations sur le site, créer des «NewsLetters» interneset externes.
+Une fois connectï¿½, la personne a accï¿½s ï¿½ des albums photos supplï¿½mentaires, ï¿½ un espace de tï¿½lï¿½chargement de documents divers (Word,  PDF,  Excel), 
+ï¿½ des informations internes au club que le membre pourra commenter. Les membres du CA ont les mï¿½mes droits que les membres du club, mais auront accï¿½s ï¿½ 
+des informations spï¿½cifiques au CA et sujets aussi ï¿½ commentaires. Seuls des membres autorisï¿½s du club pourront publier des informations sur le site, crï¿½er des ï¿½NewsLettersï¿½ interneset externes.
 
-Le webmaster (administrateur du site) aura accès à tous les outils (statistiques, sauvegardes, restauration, mise à jour, migration, transfert, 
-sécurité,  gestion des utilisateurs).Le référencement est important: URL rewriting, les mots clés, ... 
+Le webmaster (administrateur du site) aura accï¿½s ï¿½ tous les outils (statistiques, sauvegardes, restauration, mise ï¿½ jour, migration, transfert, 
+sï¿½curitï¿½,  gestion des utilisateurs).Le rï¿½fï¿½rencement est important: URL rewriting, les mots clï¿½s, ... 
 
 
 3.EXTENSIONS POSSIBLES
 
--Synchronisation compte avec un  compte gmail-Facebook et twiter-Gestion des Abonnements-Choix d’un Template
+-Synchronisation compte avec un  compte gmail-Facebook et twiter-Gestion des Abonnements-Choix dï¿½un Template
 
-Pour terminer, procédez à lapublication du site sur un hébergement.
+Pour terminer, procï¿½dez ï¿½ lapublication du site sur un hï¿½bergement.
 
 4.TRAVAIL A RENDRE
 
-Un fichier zip comprenant les sources du site, une extraction de la BDD et un fichier listant les plugins utilisés (nom et description).
+Un fichier zip comprenant les sources du site, une extraction de la BDD et un fichier listant les plugins utilisï¿½s (nom et description).
+
